@@ -8,6 +8,7 @@ target/
 ptau/
 build/circuits/
 
+temp_auto_push.bat
 # snarkjs intermediate zkeys
 *.zkey
 
@@ -19,3 +20,5 @@ build/circuits/
 # Environment / secrets
 .env
 .env.*
+.gitignore
+branch_structure.json
